@@ -1,0 +1,47 @@
+[
+ {
+  "nome": "Tarifa Monoelétrico 22 - tarifa simples",
+  "custo1": "Preço de Potência (€/ano)",
+  "custo2": "236.337500",
+  "custo3": "Preço de Energia (€/kWh)",
+  "custo4": "0.15110",
+  "custo5": "Total Mensal",
+  "custo6": "70,06€"
+ },
+ {
+  "nome": "Tarifa Digital Monoelétrico 22 - tarifa simples",
+  "custo1": "Preço de Potência (€/ano)",
+  "custo2": "206.042500",
+  "custo3": "Preço de Energia (€/kWh)",
+  "custo4": "0.14650",
+  "custo5": "Total Mensal",
+  "custo6": "66,00€"
+ },
+ {
+  "nome": "Tarifa + Cliente Monoelétrico 22 - tarifa simples",
+  "custo1": "Preço de Potência (€/ano)",
+  "custo2": "144.175000",
+  "custo3": "Preço de Energia (€/kWh)",
+  "custo4": "0.14650",
+  "custo5": "Total Mensal",
+  "custo6": "60,85€"
+ },
+ {
+  "nome": "Tarifa Monoelétrico 22 - tarifa bi-horária (ACO)",
+  "custo1": "Preço de Potência (€/ano)",
+  "custo2": "236.34",
+  "custo3": "Preço Energia Fora\nVazio (€/kWh)",
+  "custo4": "0.19700",
+  "custo5": "Preço Energia\nVazio (€/kWh)",
+  "custo6": "0.09950"
+ },
+ {
+  "nome": "Tarifa Digital Monoelétrico 22 - tarifa bi-horária (ACO)",
+  "custo1": "Preço de Potência (€/ano)",
+  "custo2": "206.04",
+  "custo3": "Preço Energia Fora\nVazio (€/kWh)",
+  "custo4": "0.19050",
+  "custo5": "Preço Energia\nVazio (€/kWh)",
+  "custo6": "0.09800"
+ }
+]

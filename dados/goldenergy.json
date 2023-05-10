@@ -1,0 +1,385 @@
+{
+ "tarifa": [
+  {
+   "nome": "Tarifa Monoelétrico 22 - tarifa simples",
+   "dados": [
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "236.337500"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.15110"
+    },
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "70,06€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Digital Monoelétrico 22 - tarifa simples",
+   "dados": [
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "206.042500"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.14650"
+    },
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "66,00€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa + Cliente Monoelétrico 22 - tarifa simples",
+   "dados": [
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "144.175000"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.14650"
+    },
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "60,85€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Monoelétrico 22 - tarifa bi-horária",
+   "dados": [
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "236.34"
+    },
+    {
+     "custos": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.19700"
+    },
+    {
+     "custos": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.09950"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Digital Monoelétrico 22 - tarifa bi-horária",
+   "dados": [
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "206.04"
+    },
+    {
+     "custos": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.19050"
+    },
+    {
+     "custos": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.09800"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa + Cliente Monoelétrico 22 - tarifa bi-horária",
+   "dados": [
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "144.18"
+    },
+    {
+     "custos": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.19050"
+    },
+    {
+     "custos": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.09800"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Monogás 22",
+   "dados": [
+    {
+     "custos": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custos": "41.208500"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.13510"
+    },
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "41,71€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Digital Monogás 22",
+   "dados": [
+    {
+     "custos": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custos": "15.184000"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.13120"
+    },
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "38,44€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa + Cliente Monogás 22",
+   "dados": [
+    {
+     "custos": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custos": "15.184000"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.11960"
+    },
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "35,15€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Dual 22 - tarifa simples",
+   "dados": [
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "109,61€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Dual 22 - tarifa bi-horária",
+   "dados": [
+    {
+     "custos": "Potência Contratada\nGoldenergy"
+    },
+    {
+     "custos": "6.9 kVA"
+    },
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "236.34"
+    },
+    {
+     "custos": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.19700"
+    },
+    {
+     "custos": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.09950"
+    },
+    {
+     "custos": "Escalão Consumo\nGoldenergy"
+    },
+    {
+     "custos": "2"
+    },
+    {
+     "custos": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custos": "15.184000"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.13510"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Digital Dual 22 - tarifa simples",
+   "dados": [
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "104,44€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa + Cliente Dual 22 - tarifa simples",
+   "dados": [
+    {
+     "custos": "Total Mensal"
+    },
+    {
+     "custos": "95,99€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Digital Dual 22 - tarifa bi-horária",
+   "dados": [
+    {
+     "custos": "Potência Contratada\nGoldenergy"
+    },
+    {
+     "custos": "6.9 kVA"
+    },
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "206.04"
+    },
+    {
+     "custos": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.19050"
+    },
+    {
+     "custos": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.09800"
+    },
+    {
+     "custos": "Escalão Consumo\nGoldenergy"
+    },
+    {
+     "custos": "2"
+    },
+    {
+     "custos": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custos": "15.184000"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.13510"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa + Cliente Dual 22 - tarifa bi-horária",
+   "dados": [
+    {
+     "custos": "Potência Contratada\nGoldenergy"
+    },
+    {
+     "custos": "6.9 kVA"
+    },
+    {
+     "custos": "Preço de Potência (€/ano)"
+    },
+    {
+     "custos": "144.18"
+    },
+    {
+     "custos": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.19050"
+    },
+    {
+     "custos": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custos": "0.09800"
+    },
+    {
+     "custos": "Escalão Consumo\nGoldenergy"
+    },
+    {
+     "custos": "2"
+    },
+    {
+     "custos": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custos": "15.184000"
+    },
+    {
+     "custos": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custos": "0.11960"
+    }
+   ]
+  }
+ ]
+}

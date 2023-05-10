@@ -1,0 +1,221 @@
+{
+ "tarifa": [
+  {
+   "nome": "Tarifa Quero+ Luz - tarifa simples",
+   "dados": [
+    {
+     "custo1": "Preço de Potência (€/ano)"
+    },
+    {
+     "custo2": "186.989500"
+    },
+    {
+     "custo3": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custo4": "0.15680"
+    },
+    {
+     "custo5": "Total Mensal"
+    },
+    {
+     "custo6": "67,85€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Quero+ Gás",
+   "dados": [
+    {
+     "custo1": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custo2": "90.994500"
+    },
+    {
+     "custo3": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custo4": "0.11950"
+    },
+    {
+     "custo5": "Total Mensal"
+    },
+    {
+     "custo6": "41,44€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Quero+ Luz e Gás",
+   "dados": [
+    {
+     "custo1": "Total Mensal"
+    },
+    {
+     "custo2": "105,08€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa E-Luz - tarifa simples",
+   "dados": [
+    {
+     "custo1": "Preço de Potência (€/ano)"
+    },
+    {
+     "custo2": "156.402500"
+    },
+    {
+     "custo3": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custo4": "0.14500"
+    },
+    {
+     "custo5": "Total Mensal"
+    },
+    {
+     "custo6": "61,37€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa E-Gás",
+   "dados": [
+    {
+     "custo1": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custo2": "72.416000"
+    },
+    {
+     "custo3": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custo4": "0.11530"
+    },
+    {
+     "custo5": "Total Mensal"
+    },
+    {
+     "custo6": "38,70€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa E-Luz & Gás",
+   "dados": [
+    {
+     "custo1": "Total Mensal"
+    },
+    {
+     "custo2": "100,07€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Quero+ Luz - tarifa bi-horária",
+   "dados": [
+    {
+     "custo1": "Preço de Potência (€/ano)"
+    },
+    {
+     "custo2": "186.99"
+    },
+    {
+     "custo3": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custo4": "0.18360"
+    },
+    {
+     "custo5": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custo6": "0.10240"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa E-Luz - tarifa bi-horária",
+   "dados": [
+    {
+     "custo1": "Preço de Potência (€/ano)"
+    },
+    {
+     "custo2": "156.40"
+    },
+    {
+     "custo3": "Preço Energia Fora\nVazio (€/kWh)"
+    },
+    {
+     "custo4": "0.18010"
+    },
+    {
+     "custo5": "Preço Energia\nVazio (€/kWh)"
+    },
+    {
+     "custo6": "0.10150"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Aniversário Luz - tarifa simples",
+   "dados": [
+    {
+     "custo1": "Preço de Potência (€/ano)"
+    },
+    {
+     "custo2": "165.308500"
+    },
+    {
+     "custo3": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custo4": "0.16840"
+    },
+    {
+     "custo5": "Total Mensal"
+    },
+    {
+     "custo6": "69,91€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Aniversário Gás",
+   "dados": [
+    {
+     "custo1": "Termo Fixo\n(€/ano)"
+    },
+    {
+     "custo2": "85.848000"
+    },
+    {
+     "custo3": "Preço de Energia (€/kWh)"
+    },
+    {
+     "custo4": "0.12810"
+    },
+    {
+     "custo5": "Total Mensal"
+    },
+    {
+     "custo6": "43,45€"
+    }
+   ]
+  },
+  {
+   "nome": "Tarifa Aniversário Luz e Gás",
+   "dados": [
+    {
+     "custo1": "Total Mensal"
+    },
+    {
+     "custo2": "113,36€"
+    }
+   ]
+  }
+ ]
+}

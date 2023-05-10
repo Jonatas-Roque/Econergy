@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title></title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Raleway:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/estilo.css" rel="stylesheet">
+  <script src="assets/js/js.js"></script>
+
+
+</head>
+
+<body>
+
+
+  <header id="header" class="header d-flex align-items-center shadow">
+
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+      <a href="index.html" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <img src="imgs/logo2.png">
+      </a>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="#hero">Home</a></li>
+          <li><a href="#about">Sobre nós</a></li>
+          <li><a href="#testimonials">Testemunhos</a></li>
+          <li><a href="#team">Equipa</a></li>
+          <li class="dropdown"><a href="#"><span>Propostas</span> <i
+                class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <ul>
+              <li><a href="dicas.html">Dicas</a></li>
+              <li><a href="tarifarios.html">Tarifários</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav><!-- .navbar -->
+
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+   
+    <div class="container demo">
+        <div class="text-center">
+            <button type="button" class="btn btn-demo" data-toggle="modal" data-target="#exampleModal">
+             Sidebar Modal
+            </button>
+        </div>
+        <div class="modal left fade" id="exampleModal" tabindex="" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div class="nav flex-sm-column flex-row">
+                            <a class="nav-item nav-link active" href="#">Home</a>
+                            <a href="#" class="nav-item nav-link">Link</a>
+                            <a href="#" class="nav-item nav-link">Link</a>
+                            <a href="#" class="nav-item nav-link">Link</a>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- container -->
+
+
+
+    <h1>AQUI:</h1>
+
+    <div class="mb-5 mx-auto text-center col-5 shadow " style="border: 0.14rem solid #292d2d;"><div><h5><strong style="background-color:#30d63c" class="p-3">'
+      + element.nome + '</strong></div><br><div><h6>' + element.custo1 + ':  ' + element.custo2 +
+        '<br>' + element.custo3 + ':  ' + element.custo4 + '<br>' 
+        + element.custo5 + ':  ' + element.custo6 + '</h6></div>' + '</h5><a  href="https://www.escolhaendesa.pt/"><button class="mb-3 mt-1 btn btn-success px-3">Ver plano</button></a></div>
+
+
+
+      
+
+
+
+        
+              '<div class="justify-content-center">
+                  <div class="card card-margin col-5 mx-auto shadow-lg">
+                      <div class="card-header no-border text-center mx-auto">
+                          <h5 class="card-title mt-3 mb-1">ENDESA</h5>
+                      </div>
+                      <div class="card-body pt-0 ">
+                          <div class="widget-49 ">
+                              <div class="widget-49-title-wrapper">
+                                  
+                                  <div class="widget-49-meeting-info text-center mx-auto mb-2">
+                                      <span class="widget-49-pro-title">'+element.nome+'</span>
+                                  </div>
+                              </div>
+                              <ul class="widget-49-meeting-points mx-auto text-center list-unstyled">
+                                  <li class="widget-49-meeting-item"><b>'+element.custo1+': </b><span>'+element.custo2+'</span></li>
+                                  <li class="widget-49-meeting-item"><b>'+element.custo3+': </b><span>'+element.custo4+'</span></li>
+                                  <li class="widget-49-meeting-item"><b>'+element.custo5+': </b><span>'+element.custo6+'</span></li>
+                              </ul>
+                              <div class="widget-49-meeting-action">
+                                  <a href="https://www.escolhaendesa.pt/" ><button class="btn shadow text-white but-1"><b>Ver plano</b></button></a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>'
+
+          
+
+
+
+
+
+    
+    <footer class="demo-footer">
+        <a href="http://www.bootpen.com" target="_blank">Get more code snippets</a>
+    </footer>
+
+
+
+
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer mt-5 text-center justify-content-center align-items-center">
+
+    <div class="container">
+      <div class="row gy-4">
+        <div class="col-lg-12 col-md-12 footer-info text-center">
+          <div class="mb-2"><a href="index.html" class="logo align-items-center mx-auto">
+              <img src="imgs/logo2.png">
+            </a></div>
+          <p>Para dar suporte a todos os consumidores de energia.</p>
+          <div class="social-links d-flex mt-4 text-center align-items-center justify-content-center mx-auto">
+            <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+            <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+            <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+            <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-6 footer-links mt-3 pt-3">
+          <h4>Useful Links</h4>
+          <ul class="d-inline-block">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Terms of service</a></li>
+            <li><a href="#">Privacy policy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-6 footer-links mt-3 pt-3">
+          <h4>Our Services</h4>
+          <ul class="d-inline-block">
+            <li><a href="#">Web Design</a></li>
+            <li><a href="#">Web Development</a></li>
+            <li><a href="#">Product Management</a></li>
+            <li><a href="#">Marketing</a></li>
+            <li><a href="#">Graphic Design</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-12 footer-contact text-center text-md-start mt-3 pt-3">
+          <h4>Contact Us</h4>
+          <p>
+            A108 Adam Street <br>
+            New York, NY 535022<br>
+            United States <br><br>
+            <strong>Phone:</strong> +1 5589 55488 55<br>
+            <strong>Email:</strong> info@example.com<br>
+          </p>
+
+        </div>
+
+      </div>
+    </div>
+
+
+
+  </footer><!-- End Footer -->
+  <!-- End Footer -->
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>
